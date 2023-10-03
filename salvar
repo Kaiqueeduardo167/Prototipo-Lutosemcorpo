@@ -1,0 +1,85 @@
+ <footer class="criadores">
+        <p>Site criado por <span class="destaque">Kaique</span>, <span class="destaque">Lauanda</span> e <span class="destaque">Rodrigo</span> para o Trabalho de Conclusão de Curso da <abbr title="Escola Salesiana São José"><a href="https://www.essj.com.br/" target="_blank">ESSJ</a></abbr></p>
+    </footer>
+
+    <div class="ftossob">
+        <div class="ft1">
+            <h3 class="fttex1">ESTÁGIOS DO LUTO</h3>
+             <div class="foto-infor">
+                <div class="estagios-dropdown">
+                 <ul></ul>
+                 <a href="" class="ft-tex1">VER MAIS</a>
+            <img class="ftoto" src="imgs/estagiosluto.png" alt="">
+                <p class="fot-texto">
+                1° ESTÁGIO DO LUTO: NEGACÃO:
+                Normalmente, a reação imediata ao ouvir a notícia da morte de alguém amado é rejeitá-la. A pessoa enlutada não acredita nem quer tentar acreditar na possibilidade de ter perdido um ente querido, então, rejeita a própria realidade. “É impossível!”, ela pensa constantemente <br><br>
+                2° ESTÁGIO DO LUTO: RAIVA:
+                Sentimentos de raiva, angústia, desespero, medo, culpa e frustração se manifestam constantemente. Este turbilhão domina a mente da pessoa enlutada, fazendo-a ter condutas ríspidas e desagradáveis. Quando alguém tenta trazê-la para realidade, ela reage com agressividade, ainda incapaz de aceitar a perda. <br><br>
+                3° ESTÁGIO DO LUTO: BARGANHA:
+                Esta fase do luto se constitui por negociações. A pessoa enlutada negocia consigo mesma ou com a entidade superior em que acredita na tentativa desesperada de aliviar a sua dor. Diversos pensamentos de “e se eu tivesse feito isso” ou de “se eu fizer X coisa, posso reverter a situação” rondam a mente da pessoa em luto. Mesmo que ela tenha consciência da impossibilidade desses feitos, ela os alimenta para consolar a si mesma. <br><br>
+                4° ESTÁGIO DO LUTO: DEPRESSÃO:
+                Uma das cinco fases do luto mais intensas é a depressão. A pessoa é acometida por um grande sofrimento, o qual pode se prolongar por semanas ou meses. Ela se apega à dor causada pela partida do ente querido, usando-a como combustível para permanecer em estado depressivo. <br><br>
+                5° ESTÁGIO DO LUTO: ACEITAÇÃO:
+                A aceitação é o último estágio do luto, mesmo quando a experiência não é linear. É neste momento que a pessoa enlutada compreende a sua nova realidade, constituída pela ausência de quem partiu. Os sentimentos e angústias já foram externalizados, resultando em uma sensação de paz interior.
+                </p>
+             </div>
+             <a href="" class="ft-tex1">VER MAIS</a>
+            </div>
+        </div>
+
+        <div class="ft2">
+            <h3 class="fttex1">ESTAGIOS</h3>
+            <div class="foto-infor">
+            <img class="ftoto" src="imgs/Estágios-do-luto-1.jpg" alt="">
+            <p class="fot-texto">
+                1° ESTÁGIO DO LUTO: <br>
+                2° ESTÁGIO DO LUTO: RAIVA <br>
+                3° ESTÁGIO DO LUTO: BARGANHA <br>
+                4° ESTÁGIO DO LUTO: DEPRESSÃO <br>
+                5° ESTÁGIO DO LUTO: ACEITAÇÃO
+            </p>
+            </div>
+            <a href="" class="ft-tex1">VER MAIS</a>
+        </div>
+
+        <div class="ft3">
+            <h3 class="fttex1">ESTAGIOS</h3>
+            <div class="foto-infor">
+            <img class="ftoto" src="imgs/Estágios-do-luto-1.jpg" alt="">
+            <p class="fot-texto">
+                1° ESTÁGIO DO LUTO: NEGACÃO <br>
+                2° ESTÁGIO DO LUTO: RAIVA <br>
+                3° ESTÁGIO DO LUTO: BARGANHA <br>
+                4° ESTÁGIO DO LUTO: DEPRESSÃO <br>
+                5° ESTÁGIO DO LUTO: ACEITAÇÃO
+            </p>
+            </div>
+            <a href="" class="ft-tex1">VER MAIS
+            </a>
+        </div>
+        </div>
+
+        .criadores{
+            text-align: center;
+            background-color: #814c4c;
+            box-shadow: 0 0 10px #00000061;
+        }
+        
+        footer a, abbr {
+            background-color: transparent;
+            text-decoration: none;
+            color: #000000;
+        }
+        
+        footer a:hover {
+            text-decoration: underline;
+        }
+        
+        footer .destaque {
+            font-weight: bold;
+            font-size: 1em;
+        }
+
+        <a class="menuitem" href="perguntas.html" target="_blank">DESABAFOS</a>
+        <a class="menuitem" href="#" target="_blank">SOBRE-NÓS</a>
+        <a class="menuitem" href="login.html" target="_blank">LOGIN</a>
